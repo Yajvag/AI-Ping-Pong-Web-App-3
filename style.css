@@ -1,0 +1,48 @@
+body{
+    background-size:cover;
+}
+
+.heading{
+    width:100%;
+    text-align: center;
+}
+
+.heading h3{
+    display:inline;
+}
+
+.heading button{
+    float:right;
+    border:1px solid white;
+}
+
+.copy_right_footer{
+    position:fixed;
+    color:white;
+    width: 100%;
+    line-height: 3;
+    text-align: center;
+    background-color: rgb(108, 108, 108);
+    bottom:0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.restart{
+    width:10%;
+    height:5%;
+    border: 1px solid white;
+    font-size: 30px;
+}
+
+#start{
+    width:10%;
+    height:5%;
+    border:1px solid white;
+    font-size: 30px;
+}
+
+
+canvas{
+    border-radius: 25px;
+    border: 5px solid red;
+}
